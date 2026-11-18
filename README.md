@@ -13,13 +13,7 @@
   <img src="assets/procureiq_logo.svg" alt="ProcureIQ AI Logo" width="180">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Plotly-Visualizations-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Project-Portfolio%20Edition-34233D?style=for-the-badge" alt="Portfolio Project">
-</p>
+
 
 ---
 
@@ -597,11 +591,9 @@ The platform demonstrates the integration of data engineering, analytical logic,
 
 **Designed, Developed & Documented by**
 
-# Mohamed Riyaz S.
-
-Integrated M.Tech — Computer Science and Engineering  
-Specialization: Business Analytics  
-Vellore Institute of Technology, Chennai
+**Mohamed Riyaz S.**  
+Integrated M.Tech – Computer Science and Engineering (Business Analytics)  
+Vellore Institute of Technology (VIT), Chennai
 
 **Technical Interests:** Artificial Intelligence | Machine Learning | Data Science | Business Intelligence | Predictive Analytics
 
