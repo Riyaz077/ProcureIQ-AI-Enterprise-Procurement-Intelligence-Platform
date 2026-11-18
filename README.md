@@ -2,10 +2,6 @@
 ### Enterprise Procurement Intelligence, Spend Analytics & Leakage Detection Platform
 
 <p align="center">
-  <strong>Turning Procurement Data into Strategic Business Intelligence.</strong>
-</p>
-
-<p align="center">
   An interactive enterprise analytics platform designed to uncover spend inefficiencies, identify procurement exceptions, evaluate supplier performance, and support smarter sourcing decisions.
 </p>
 
