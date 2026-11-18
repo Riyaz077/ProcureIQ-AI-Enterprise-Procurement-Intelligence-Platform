@@ -2,14 +2,12 @@
 ### Enterprise Procurement Intelligence, Spend Analytics & Leakage Detection Platform
 
 <p align="center">
-  An interactive enterprise analytics platform designed to uncover spend inefficiencies, identify procurement exceptions, evaluate supplier performance, and support smarter sourcing decisions.
-</p>
-
-<p align="center">
   <img src="assets/procureiq_logo.svg" alt="ProcureIQ AI Logo" width="180">
 </p>
 
-
+<p align="center">
+  An interactive enterprise analytics platform designed to uncover spend inefficiencies, identify procurement exceptions, evaluate supplier performance, and support smarter sourcing decisions.
+</p>
 
 ---
 
